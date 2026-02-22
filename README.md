@@ -37,11 +37,3 @@ Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia 
 - **Fundamentos:** Implementação de estruturas de dados (pilhas e filas) em `C++`.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheusCA&show_icons=true&theme=radical" alt="Estatísticas do Matheus" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusCA&layout=compact&theme=radical" alt="Top Linguagens" />
-</div>
